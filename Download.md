@@ -5,5 +5,5 @@ layout: default
 
 * Download and install [3D Slicer](http://download.slicer.org)
 * Start 3D Slicer
-* Open View -> Extension Manager
+* Open: View -> Extension Manager
 * Install PerkTutor

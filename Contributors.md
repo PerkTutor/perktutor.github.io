@@ -13,6 +13,6 @@ In alphabetical order.
 #Funding
 
 * Canadian Institutes of Health Research grant for Perk Tutor: Ultrasound-guided Needle Placement Training Platform
-* Cancer Care Ontario Research Chair in Cancar Imaging (Gabor Fichtinger)
+* Cancer Care Ontario Research Chair in Cancer Imaging (Gabor Fichtinger)
 * NSERC Canada Graduate Scholarship (Matthew S. Holden)
 * Ontario Ministry of Research and Innovation Postdoctoral Fellowship (Tamas Ungi)
