@@ -6,7 +6,7 @@ layout: default
 ##2013
 
 *   Science Rendezvous Kingston 2013, organized by the Community Outreach Centre at Queen's University, Faculty of Education (May 11, 2013)
-   *   Video link: http://www.youtube.com/watch?v=9t1V-Ro0Cak
+    *   Video link: http://www.youtube.com/watch?v=9t1V-Ro0Cak
 *   Queen's University Discovery Day hosted by the Canadian Medical Hall of Fame (May 9, 2013)
 *   Queen's University March Break Open House (March 11-12, 2013)
 
