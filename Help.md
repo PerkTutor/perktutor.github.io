@@ -3,10 +3,10 @@ layout: default
 ---
 # Download and Install PerkTutor Extension
 
-* Download and install [3D Slicer](http://download.slicer.org)
-* Start 3D Slicer
-* Open: View -> Extension Manager
-* Install PerkTutor
+1. Download and install [3D Slicer](http://download.slicer.org)
+1. Start 3D Slicer
+1. Open: View -> Extension Manager
+1. Install PerkTutor
 
 # Video Tutorials
 
@@ -18,6 +18,6 @@ Please visit the [PerkTutor Tutorials](https://github.com/PerkTutor/PerkTutor/wi
 
 # PerkTutor Module Tutorials
 
-[Perk Evaluator](https://github.com/PerkTutor/PerkEvaluator/wiki/Tutorials)
-[Transform Recorder](https://github.com/PerkTutor/TransformRecorder/wiki/Tutorials)
-[Workflow Segmentation](https://github.com/PerkTutor/WorkflowSegmentation/wiki/Tutorials)
+* [Perk Evaluator](https://github.com/PerkTutor/PerkEvaluator/wiki/Tutorials)
+* [Transform Recorder](https://github.com/PerkTutor/TransformRecorder/wiki/Tutorials)
+* [Workflow Segmentation](https://github.com/PerkTutor/WorkflowSegmentation/wiki/Tutorials)
