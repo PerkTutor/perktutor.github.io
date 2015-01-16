@@ -3,6 +3,13 @@ layout: default
 ---
 #PerkTutor Outreach Events
 
+##2014
+
+*   Shad Valley International Program Tour (July 21, 2014)
+
+*   Queen's University Discovery Day hosted by the Canadian Medical Hall of Fame (May 2, 2014)
+
+
 ##2013
 
 *   Science Rendezvous Kingston 2013, organized by the Community Outreach Centre at Queen's University, Faculty of Education (May 11, 2013)
