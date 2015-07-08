@@ -3,7 +3,7 @@ layout: default
 ---
 # Objective Evaluation Of Sonographic Skill In Focussed Assessment With Sonography For Trauma Examinations
 
-![Fast Ultrasound](FastUltrasound.png)
+![Fast Ultrasound](images/FastUltrasound.png)
 
 ```
 With the recent uptake of competency-based medical education, there has been extensive study of objective skill evaluation for needle-based and laparoscopic interventions on phantoms simulating human anatomy. In these contexts, it has been shown that skill evaluation metrics can distinguish novice from expert operators. Upon further validation, these metrics could be used to supplement expert knowledge in the medical education process, providing standardization and feedback during unsupervised training.

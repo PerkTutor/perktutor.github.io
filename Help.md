@@ -8,7 +8,7 @@ layout: default
 
 ![Slicer View Menu](images/SlicerViewMenu.png)
 ![Slicer Training Category](images/SlicerTrainingCategory.png)
-![Slicer Install PerkTutor](images/SlicerInstallPerkTutor.png)
+![Slicer Install PerkTutor](images/SlicerPerkTutorInstall.png)
 
 # Tutorials
 
