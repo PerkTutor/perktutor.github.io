@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Objective Evaluation Of Sonographic Skill In Focussed Assessment With Sonography For Trauma Examinations
+# Objective Evaluation Of Sonographic Skill In FAST Examinations
 
 ![Fast Ultrasound](images/FastUltrasound.png)
 
