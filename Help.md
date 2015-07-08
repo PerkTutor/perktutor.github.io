@@ -3,20 +3,18 @@ layout: default
 ---
 # Download and Install PerkTutor Extension
 
-1. Download and install [3D Slicer](http://download.slicer.org)
-1. Start 3D Slicer
-1. Open: View -> Extension Manager
-1. Install PerkTutor
+1. Download and install [3D Slicer](http://download.slicer.org) (available for Windows, Mac, Linux).
+1. Install PerkTutor from 3D Slicer extension manager.
 
-# Video Tutorials
+![Slicer View Menu](images/SlicerViewMenu.png)
+![Slicer Training Category](images/SlicerTrainingCategory.png)
+![Slicer Install PerkTutor](images/SlicerInstallPerkTutor.png)
 
-None are available at this time.
+# Tutorials
 
-# PerkTutor Tutorials
+Please visit the wiki page: [PerkTutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/PerkTutor-Tutorials).
 
-Please visit the [PerkTutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/PerkTutor-Tutorials) wiki page.
-
-# PerkTutor Module Tutorials
+# Module Tutorials
 
 * [Perk Evaluator](https://github.com/PerkTutor/PerkEvaluator/wiki/Tutorials)
 * [Transform Recorder](https://github.com/PerkTutor/TransformRecorder/wiki/Tutorials)
