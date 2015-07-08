@@ -5,6 +5,7 @@ layout: default
 
 ![Fast Ultrasound](FastUltrasound.png)
 
+```
 With the recent uptake of competency-based medical education, there has been extensive study of objective skill evaluation for needle-based and laparoscopic interventions on phantoms simulating human anatomy. In these contexts, it has been shown that skill evaluation metrics can distinguish novice from expert operators. Upon further validation, these metrics could be used to supplement expert knowledge in the medical education process, providing standardization and feedback during unsupervised training.
 
 Sonographic skill, however, has received significantly less attention and studies have been limited to motion economy metrics. Here, a method is proposed for objective evaluation of sonographic skill by assessing whether relevant anatomical structures are scanned. To test this method, Focussed Assessment with Sonography for Trauma (FAST) human will be considered. FAST is a quick screening test for internal bleeding in the pericardium and abdominal cavity after trauma, for which ultrasound skill is of great importance. Because ultrasound has no known adverse effects on humans, the FAST examinations can be performed on a human volunteer, rather than a phantom, thus improving the system’s fidelity.
@@ -15,11 +16,12 @@ To evaluate whether each participant scanned all of the relevant structures in e
 
 The percentage of POIs scanned was used as a metric for sonographic skill evaluation. This metric is automatically calculated for each participant by analyzing their recorded probe trajectories using the open-source PerkTutor software (www.perktutor.org). Additionally, the time of procedure and path length of the probe were calculated by the PerkTutor. All data was assessed for normality and subsequently analyzed using a Wilcoxon rank sum test. Fig. 2. 3D view (left) and ultrasound slice view (right) of user scanning POIs in the hepatorenal region, visualized using the 3D Slicer platform. POIs are indicated in red.
 
-In total, the novice group scanned a lesser percentage of POIs than the experienced group, with a median (interquartile range) of 50% (10% – 86%) vs. 100% (83% – 100%), and this difference was significant (p\<0.001). Furthermore, relative to the novice group, the experienced group scanned these POIs in significantly less time (62s, 47s – 89s, vs. 43s, 27s – 69s, p\<0.001) and had significantly shorter path length (2113mm, 1199mm – 2902mm, vs. 892mm, 619mm – 1804mm, p\<0.001).
+In total, the novice group scanned a lesser percentage of POIs than the experienced group, with a median (interquartile range) of 50% (10% – 86%) vs. 100% (83% – 100%), and this difference was significant (p<0.001). Furthermore, relative to the novice group, the experienced group scanned these POIs in significantly less time (62s, 47s – 89s, vs. 43s, 27s – 69s, p<0.001) and had significantly shorter path length (2113mm, 1199mm – 2902mm, vs. 892mm, 619mm – 1804mm, p<0.001).
 
 The proposed metric for objectively evaluating sonographic skill, based on the percentage of POIs scanned, was demonstrated to correlate with experience of residents performing FAST examinations. Furthermore, experienced residents performed these examinations in shorter time and had less ultrasound probe motion. This provides initial evidence that the percentage of POIs, as an objective metric, can be used to determine skill level in diagnostic ultrasound examinations. These results, respectively, suggest that experienced residents perform both more complete and more efficient FAST examinations, though this has not been validated in the current study.
 
 The system used for measuring objective evaluation metrics for the FAST examinations was composed of commodity hardware and completely open-source software. As a result, the setup can be reproduced rapidly and inexpensively. Pending further validation experiments, objective evaluation metrics could be implemented in the context of competency-based medical education programs for training in FAST examinations. Additionally, they may be applicable to evaluation of sonographic skill in similar procedures.
+```
 
 
 ### Related Publication
