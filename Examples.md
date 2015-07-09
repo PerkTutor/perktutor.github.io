@@ -9,4 +9,4 @@ layout: default
 
 * [Hand Motion Analysis to Evaluate Competency in Central Line Catheterization](CentralLine.html)
 
-* [Ultrasound-guided Facet Joint Injection Training](FacetJoint.png)
+* [Ultrasound-guided Facet Joint Injection Training](FacetJoint.html)
