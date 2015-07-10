@@ -27,6 +27,13 @@ body {
   float:left;
 }
 
+.example-banner {
+    text-align: center;
+}
+.example-text {
+    text-align: justify;
+}
+
 strong {
   font-weight: bold;
 }
