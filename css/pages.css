@@ -33,7 +33,7 @@ body {
 
 .example-text {
   text-align: justify;
-  border: 1px solid #c0d0d0; 
+  border-top: 1px solid #c0d0d0; 
 }
 
 
