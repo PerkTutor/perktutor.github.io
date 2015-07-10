@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 ---
 # Download and Install PerkTutor Extension
 
