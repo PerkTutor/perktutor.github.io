@@ -28,11 +28,14 @@ body {
 }
 
 .example-banner {
-    text-align: center;
+  text-align: center;
 }
+
 .example-text {
-    text-align: justify;
+  text-align: justify;
+  border: 1px solid #c0d0d0; 
 }
+
 
 strong {
   font-weight: bold;

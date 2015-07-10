@@ -1,10 +1,9 @@
 ---
 layout: example
 title: Computerized Training for Ultrasound-Guided Lumbar Punctures
-layout: images/LumbarPuncture.png
+image: images/LumbarPuncture.png
 ---
 
-***
 
 A randomized controlled trial was carried out to determine whether Perk Tutor, a computerized training platform that displays an ultrasound image and real-time needle position in a three-dimensional (3D) anatomical model, would benefit residents learning ultrasound-guided lumbar puncture (LP) in simulation phantoms with abnormal spinal anatomy.
 
@@ -14,7 +13,6 @@ The needle tracking measurements (expressed as median [interquartile range; IQR]
 
 Residents trained with augmented reality 3D visualization had better performance metrics on ultrasound-guided LP in pathological spine models.
 
-***
 
 ### Related Publications
 
