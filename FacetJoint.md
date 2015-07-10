@@ -1,7 +1,7 @@
 ---
 layout: example
-title: # Ultrasound-guided Facet Joint Injection Training
-image: ![Facet Joint](images/FacetJoint.png)
+title: Ultrasound-guided Facet Joint Injection Training
+image: images/FacetJoint.png
 ---
 
 Facet syndrome is a condition that may cause 15-45 % of chronic lower back pain. It is commonly diagnosed and treated using facet joint injections. This needle technique demands high accuracy, and ultrasound (US) is a potentially useful modality to guide the needle. US-guided injections, however, require physicians to interpret 2-D sonographic images while simultaneously manipulating an US probe and needle. Therefore, US-guidance for facet joint injections needs advanced training methodologies that will equip physicians with the requisite skills.
