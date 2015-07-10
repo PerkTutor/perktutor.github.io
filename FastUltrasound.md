@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: example
+title: Objective Evaluation Of Sonographic Skill In FAST Examinations
+image: images/FastUltrasound.png
 ---
-# Objective Evaluation Of Sonographic Skill In FAST Examinations
 
-![Fast Ultrasound](images/FastUltrasound.png)
+***
 
 With the recent uptake of competency-based medical education, there has been extensive study of objective skill evaluation for needle-based and laparoscopic interventions on phantoms simulating human anatomy. In these contexts, it has been shown that skill evaluation metrics can distinguish novice from expert operators. Upon further validation, these metrics could be used to supplement expert knowledge in the medical education process, providing standardization and feedback during unsupervised training.
 
@@ -21,6 +22,7 @@ The proposed metric for objectively evaluating sonographic skill, based on the p
 
 The system used for measuring objective evaluation metrics for the FAST examinations was composed of commodity hardware and completely open-source software. As a result, the setup can be reproduced rapidly and inexpensively. Pending further validation experiments, objective evaluation metrics could be implemented in the context of competency-based medical education programs for training in FAST examinations. Additionally, they may be applicable to evaluation of sonographic skill in similar procedures.
 
+***
 
 ### Related Publication
 

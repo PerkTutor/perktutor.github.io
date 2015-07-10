@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: example
+title: Hand Motion Analysis to Evaluate Competency in Central Line Catheterization
+image: images/CentralLine.png
 ---
-# Hand Motion Analysis to Evaluate Competency in Central Line Catheterization
 
-![Central Line](images/CentralLine.png)
+***
 
 Traditionally, technical skills proficiency has been assessed by direct observation. While direct observation and feedback are essential components in technical skills learning, they demand considerable investment of faculty time, and as an assessment tool, direct observation is inherently subjective and has been criticized as unreliable. The purpose of this study was to determine if quantitative electromagnetic motion tracking is feasible and can discriminate between experts and nonexperts during simulated ultrasound (US)-guided insertion of a central venous catheter (CVC) guidewire.
 
@@ -13,6 +14,7 @@ There was a significant difference in almost all examined motion parameters betw
 
 Electromagnetic hand and instrument motion analysis is technically feasible for assessing competence in US-guided insertion of a CVC guidewire in a simulation setting. In showing that it discriminates between the performances of nonexperts and experts, this study has provided evidence for construct validity. It also shows excellent correlation with a modified version of a previously validated GRS, providing evidence of concurrent validity.
 
+***
 
 ### Related Publications
 

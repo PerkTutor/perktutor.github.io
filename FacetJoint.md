@@ -4,6 +4,8 @@ title: Ultrasound-guided Facet Joint Injection Training
 image: images/FacetJoint.png
 ---
 
+***
+
 Facet syndrome is a condition that may cause 15-45 % of chronic lower back pain. It is commonly diagnosed and treated using facet joint injections. This needle technique demands high accuracy, and ultrasound (US) is a potentially useful modality to guide the needle. US-guided injections, however, require physicians to interpret 2-D sonographic images while simultaneously manipulating an US probe and needle. Therefore, US-guidance for facet joint injections needs advanced training methodologies that will equip physicians with the requisite skills.
 
 We used Perk Tutor - an augmented reality training system for US-guided needle insertions-in a configuration for percutaneous procedures of the lumbar spine. In a pilot study of 26 pre-medical undergraduate students, we evaluated the efficacy of Perk Tutor training compared to traditional training.
@@ -12,6 +14,7 @@ The Perk Tutor Trained group, which had access to Perk Tutor during training, ha
 
 The results of this pilot study suggest that Perk Tutor provides an improved training environment for US-guided facet joint injections on a synthetic model.
 
+***
 
 ### Related Publications
 
