@@ -36,6 +36,16 @@ body {
   border-top: 1px solid #c0d0d0; 
 }
 
+.examples-table td, th {
+    vertical-align: middle;
+    text-align: center;
+    border:0px;
+}
+
+.examples-table img {
+    height: 150px;
+    max-width: none;
+}
 
 strong {
   font-weight: bold;
