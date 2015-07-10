@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: home
 ---
 
 # PerkTutor Recent Updates
