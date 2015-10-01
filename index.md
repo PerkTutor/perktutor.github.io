@@ -4,6 +4,10 @@ layout: home
 
 # PerkTutor Recent Updates
 
+### October 01, 2015
+
+Calculation of metrics in real-time has been added to the PerkTutor. This allows users to track motion efficiency measures, such as total path length, or procedure completeness measures, such as percentage of targets hit, while the procedure is being performed.
+
 
 ### January 15, 2015
 
