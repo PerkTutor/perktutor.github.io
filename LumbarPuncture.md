@@ -16,6 +16,8 @@ Residents trained with augmented reality 3D visualization had better performance
 
 ### Related Publications
 
+Yeo, C. T., Davison C., Ungi T., Holden M. S., Fichtinger G., & McGraw R. C. (2015).  Examination of learning trajectories for simulated lumbar puncture training using hand motion analysis. Academic Emergency Medicine. 22, 1187-1195.
+
 Keri, Z., Sydor D., Ungi T., Holden M. S., McGraw R. C., Mousavi P., et al. (2015).  Computerized training system for ultrasound-guided lumbar puncture on abnormal spine models: a randomized controlled trial. Canadian Journal of Anesthesia. 62, 777-784.
 
 Clinkard, D., Moult E., Holden M. S., Davison C., Ungi T., Fichtinger G., et al. (2015).  Assessment of Lumbar Puncture Skill in Experts and Nonexperts Using Checklists and Quantitative Tracking of Needle Trajectories: Implications for Competency-Based Medical Education. Teaching and Learning in Medicine. 27, 51-56.

@@ -3,11 +3,27 @@ layout: pages
 ---
 #PerkTutor Outreach Events
 
+
+##2015
+
+*   Southeastern Ontarion Academic Medical Association (SEAMO) Innovation Showcase (May 27, 2015)
+
+*   Science Rendezvous Kingston 2015, organized by the Community Outreach Centre at Queen's University, Faculty of Education (May 9, 2015)
+
+*   Queen's University Discovery Day in Health Sciences hosted by the Canadian Medical Hall of Fame (May 5, 2015)
+
+*   Leahurst College Program Tour (Apr 10, 2015)
+
+
 ##2014
 
 *   Shad Valley International Program Tour (July 21, 2014)
 
+*   Science Rendezvous Kingston 2014, organized by the Community Outreach Centre at Queen's University, Faculty of Education (May 3, 2014)
+
 *   Queen's University Discovery Day hosted by the Canadian Medical Hall of Fame (May 2, 2014)
+
+*   Queen's University March Break Open House (March 15, 2014)
 
 
 ##2013

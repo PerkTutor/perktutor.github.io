@@ -14,6 +14,7 @@ layout: pages
 
 ##Applications of PerkTutor
 
+* Yeo, C. T., Davison C., Ungi T., Holden M. S., Fichtinger G., & McGraw R. C. (2015).  Examination of learning trajectories for simulated lumbar puncture training using hand motion analysis. Academic Emergency Medicine. 22, 1187-1195.
 * Keri, Z., Sydor D., Ungi T., Holden M. S., McGraw R. C., Mousavi P., et al. (2015).  Computerized training system for ultrasound-guided lumbar puncture on abnormal spine models: a randomized controlled trial. Canadian Journal of Anesthesia. 62, 777-784.
 * Holden, M. S., Ungi T., McKaigney C., Bell C., Rang L., & Fichtinger G. (2015).  Objective Evaluation Of Sonographic Skill In Focussed Assessment With Sonography For Trauma Examinations. Computer Assisted Radiology and Surgery, 29th International Congress and Exhibition. 10(Supplement 1), S79-S80.
 * Clinkard, D., Holden M. S., Ungi T., Messenger D., Fichtinger G., & McGraw R. C. (2015).  The Development and Validation of Hand Motion Analysis to Evaluate Competency in Central Line Catheterization. Academic Emergency Medicine. 22, 212-218.
