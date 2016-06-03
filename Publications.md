@@ -1,18 +1,18 @@
 ---
 layout: pages
 ---
-#PerkTutor Publications
+# PerkTutor Publications
 
-##PerkTutor Reference Publication
+## PerkTutor Reference Publication
 
 * Ungi, T., Sargent D.., Moult E., Lasso A., Pinter C., McGraw R. C., et al. (2012).  Perk Tutor: An open-source training platform for ultrasound-guided needle insertions. IEEE Trans Biomed Eng. 59, 3475-3481.
 
-##PerkTutor Technology Publications
+## PerkTutor Technology Publications
 
 * Holden, M. S., Ungi T., Sargent D., McGraw R. C., Chen E. C. S., Ganapathy S., et al. (2014).  Feasibility of Real-Time Workflow Segmentation for Tracked Needle Interventions. IEEE Transactions on Biomedical Engineering. 61, 1720-1728.
 * Bartha, L., Lasso A., Pinter C., Ungi T., Keri Z., & Fichtinger G. (2013).  Open-source surface mesh-based ultrasound-guided spinal intervention simulator. International Journal of Computer Assisted Radiology and Surgery. 8, 1043-51.
 
-##Applications of PerkTutor
+## Applications of PerkTutor
 
 * Yeo, C. T., Davison C., Ungi T., Holden M. S., Fichtinger G., & McGraw R. C. (2015).  Examination of learning trajectories for simulated lumbar puncture training using hand motion analysis. Academic Emergency Medicine. 22, 1187-1195.
 * Keri, Z., Sydor D., Ungi T., Holden M. S., McGraw R. C., Mousavi P., et al. (2015).  Computerized training system for ultrasound-guided lumbar puncture on abnormal spine models: a randomized controlled trial. Canadian Journal of Anesthesia. 62, 777-784.

@@ -1,7 +1,7 @@
 ---
 layout: pages
 ---
-#Contributors
+# Contributors
 
 In alphabetical order.
 
@@ -10,7 +10,7 @@ In alphabetical order.
 * Tamas Ungi (Queen's University, Kingston, ON)
 
 
-#Funding
+# Funding
 
 * Canadian Institutes of Health Research grant for Perk Tutor: Ultrasound-guided Needle Placement Training Platform
 * Cancer Care Ontario Research Chair in Cancer Imaging (Gabor Fichtinger)
