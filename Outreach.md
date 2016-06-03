@@ -3,6 +3,12 @@ layout: pages
 ---
 #PerkTutor Outreach Events
 
+##2016
+
+*   Science Rendezvous Kingston 2015, organized by the Community Outreach Centre at Queen's University, Faculty of Education (May 7, 2016)
+
+*   Queen's University Discovery Day in Health Sciences hosted by the Canadian Medical Hall of Fame (May 3, 2016)
+
 
 ##2015
 
