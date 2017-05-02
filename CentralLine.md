@@ -16,4 +16,6 @@ Electromagnetic hand and instrument motion analysis is technically feasible for 
 
 ### Related Publications
 
+McGraw, R. C., Chaplin T., McKaigney C., Rang L., Jaeger M., Redfearn D., et al. (2016).  Development and evaluation of a simulation-based curriculum for ultrasound guided central venous catheterization. Canadian Journal of Emergency Medicine. 18, 405-413.
+
 Clinkard, D., Holden M. S., Ungi T., Messenger D., Fichtinger G., & McGraw R. C. (2015).  The Development and Validation of Hand Motion Analysis to Evaluate Competency in Central Line Catheterization. Academic Emergency Medicine. 22, 212-218.

@@ -3,15 +3,15 @@ perktutor.github.io
 
 ## Updating the Perk Tutor Pages:
 
-### If you publish a paper which uses the PerkTutor:
+### If you publish a paper which uses Perk Tutor:
 
 Please add the reference to the publications list and add it to the examples page. If there is previous work on the application, add it to the already existing example page and update the text and image. If there is no previous work on the application, create a new example with text and a image, and link to it from the "Examples" page.
 
-### If you have made a significant update to the PerkTutor:
+### If you have made a significant update to Perk Tutor:
 
 Please add a small description of it in the recent updates section. This only requires modifying the "index.md" file.
 
-### If you use the PerkTutor in an Outreach event:
+### If you use Perk Tutor in an Outreach event:
 
 Please add the event to the log of outreach events on the "Outreach" page.
 
