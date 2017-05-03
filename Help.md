@@ -13,7 +13,7 @@ layout: pages
 
 # Tutorials
 
-[Perk Tutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/PerkTutor-Tutorials).
+[Perk Tutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/PerkTutor-Tutorials)
 
 # Module Tutorials
 
