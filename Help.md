@@ -9,6 +9,7 @@ layout: pages
 ![Slicer View Menu](images/SlicerViewMenu.png)
 ![Slicer Training Category](images/SlicerTrainingCategory.png)
 ![Slicer Install PerkTutor](images/SlicerPerkTutorInstall.png)
+![Slicer Install Sequences](images/SlicerSequencesInstall.png)
 
 # Tutorials
 
@@ -22,4 +23,4 @@ layout: pages
 
 # Contact
 
-[Contact](https://github.com/PerkTutor/PerkEvaluator/wiki/Contact)
+[Contact](https://github.com/PerkTutor/PerkTutor/wiki/Contact)
