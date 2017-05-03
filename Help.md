@@ -13,14 +13,8 @@ layout: pages
 
 # Tutorials
 
-[Perk Tutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/PerkTutor-Tutorials)
+[Perk Tutor Tutorials](https://github.com/PerkTutor/PerkTutor/wiki/Tutorials)
 
-# Module Tutorials
-
-* [Perk Evaluator](https://github.com/PerkTutor/PerkEvaluator/wiki/Tutorials)
-* [Transform Recorder](https://github.com/PerkTutor/TransformRecorder/wiki/Tutorials)
-* [Workflow Segmentation](https://github.com/PerkTutor/WorkflowSegmentation/wiki/Tutorials)
-
-# Contact
+# Contact Us
 
 [Contact](https://github.com/PerkTutor/PerkTutor/wiki/Contact)
