@@ -5,6 +5,7 @@ layout: examples
 
 |  |  |
 | -- | -- |
+| ![Colonoscopy](images/Colonoscopy.png) | [Assessing Technical Proficiency in Simulated Colonoscopy](Colonoscopy.html) |
 | ![In-Plane Needle](images/InPlaneNeedle.png) | [Training for Ultrasound-Guided In-Plane Needle Insertion Using 3D Visualization](InPlaneNeedle.html) |
 | ![Fast Ultrasound](images/FastUltrasound.png) | [Objective Evaluation of Sonographic Skill in FAST Examinations](FastUltrasound.html) |
 | ![Lumbar Puncture](images/LumbarPuncture.png) | [Computerized Training for Ultrasound-Guided Lumbar Punctures](LumbarPuncture.html) |
