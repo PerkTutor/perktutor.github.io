@@ -10,42 +10,27 @@ body {
   position:relative;
   width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 0;
 }
 
 .three-column {
   display: inline;
-  float:left;
-  width: 293px;
-  margin: 0 20px 0 0;
+  float: left;
+  width: 300px;
+  margin: 10px 10px 0 10px;
+  text-align: justify;
 }
 
 .updates {
   margin-top: 25px;
   border-top: 1px solid #c0d0d0;
   display: block;
-  float:left;
-}
-
-.example-banner {
-  text-align: center;
-}
-
-.example-text {
+  float: left;
   text-align: justify;
-  border-top: 1px solid #c0d0d0; 
 }
 
-.examples-table td, th {
-    vertical-align: middle;
-    text-align: center;
-    border: 0px;
-    padding: 10px;
-}
-
-.examples-table img {
-    height: 150px;
-    max-width: none;
+.example-content {
+  text-align: justify;
 }
 
 strong {
@@ -136,7 +121,7 @@ header .logo a {
 a.button.left{
   display: inline-block;
   float: left;
-  margin: 7px 10px 0 0;
+  margin: 7px 7px 0 0;
   padding: 5px 15px;
   color: #111111;
   font-weight: bold;
@@ -160,7 +145,7 @@ a.button.left:hover{
 a.button.classy {
   display: inline-block;
   float:right;
-  margin: 7px 40px 0 0;
+  margin: 7px 0 0 7px;
   padding: 5px 10px;
   color: #474747;
   font-weight:bold;
@@ -192,7 +177,7 @@ a.button.classy:hover {
 }
 
 h3.thinner {
-  width: 920px;
+  width: 960px;
   margin-top: 40px;
   font-weight: 300;
   font-size: 30px;
@@ -215,7 +200,7 @@ h3.thinner {
 #hero-spot .inner {
   height: 180px;
   background: url('../images/PerkTutorLogo.png') no-repeat;
-  background-position: 93% 50%;
+  background-position: right center;
 }
 
 #hero-spot h1 {
@@ -259,8 +244,8 @@ section#content {
 ol.screencap-list li {
   display: inline;
   float: left;
-  width: 293px;
-  margin: 0 20px 20px 0;
+  width: 300px;
+  margin: 0 10px 0 10px;
   list-style: numeric;
   font-size: 18px;
   font-weight: 300;
@@ -270,7 +255,7 @@ ol.screencap-list li {
 ol.screencap-list span img {
   display: block;
   height: 215px;
-  width: 293px;
+  width: 300px;
   margin: 0px 0 10px 0;
 
   -webkit-border-radius: 2px;

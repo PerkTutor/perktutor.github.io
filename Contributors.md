@@ -5,6 +5,7 @@ layout: pages
 
 * Gabor Fichtinger (Queen's University, Kingston, ON)
 * Vinyas Harish (Queen's University, Kingston, ON)
+* Rebecca Hisey (Queen's University, Kingston, ON)
 * Matthew S. Holden (Queen's University, Kingston, ON)
 * Zsuzsanna Keri (Queen's University, Kingston, ON)
 * Andras Lasso (Queen's University, Kingston, ON)

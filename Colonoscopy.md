@@ -1,9 +1,9 @@
 ---
 layout: example
-title: Assessing Technical Proficiency in Simulated Colonoscopy
-image: images/Colonoscopy.png
+media: images/Colonoscopy.png
 ---
 
+# Assessing Technical Proficiency in Simulated Colonoscopy
 
 Colonoscopy is a commonly used image-guided therapy to treat many different types of disease in the colon. Because of the spatial awareness required to perform colonoscopy, it is critical that trainees master basic colonoscope manipulation techniques at an early stage of training. Training on low-fidelity simulators allows trainees to master manipulation technique prior to more complex training scenarios. What remains a challenge, however, is assessing how well a trainee has mastered the manipulation techniques. In this work, we evaluate how well joint motion analysis can be used to determine whether an operator has mastered basic colonoscope manipulation techniques.
 
@@ -13,8 +13,9 @@ Novices spent significantly more time than experts performing the navigation tas
 
 Joint motion analysis demonstrates promise as a way of quantitatively measuring colonoscope manipulation skill, showing differences between novice and expert groups. More analysis is required, however, to fully analyze these patterns in join motion and to show whether this analysis can be used as an indicator of overall colonoscope manipulation competence.
 
+## Related Publications
 
-### Related Publications
+Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (In Press).  Objective assessment of colonoscope manipulation skills in colonoscopy training. International Journal of Computer Assisted Radiology and Surgery. 
 
 Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (2017).  Assessing Technical Competency in Simulated Colonoscopy Using Joint Motion Analysis. 15th Annual Imaging Network Ontario Symposium (ImNO).
 
