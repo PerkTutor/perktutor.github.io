@@ -1,7 +1,7 @@
 safe:        false
 port: 4000
 baseurl:
-url: http://localhost:4000
+url: http://perktutor.github.io
 
 source:      .
 destination: ./_site
