@@ -14,7 +14,7 @@ layout: pages
 ## [Assessing Technical Proficiency in Simulated Colonoscopy ![Colonoscopy](images/Colonoscopy.png)](Colonoscopy.html)
 <br>
 
-## [Training for Ultrasound-Guided In-Plane Needle Insertion Using 3D Visualization ![InPlaneNeedle](images/InPlaneNeedle.png)](InPlaneNeedle.html)
+## [Training for Ultrasound-Guided Needle Insertion Using 3D Visualization ![UsNeedle](images/UsNeedle.png)](UsNeedle.html)
 <br>
 
 ## [Objective Evaluation of Sonographic Skill in FAST Examinations ![FastUltrasound](images/FastUltrasound.png)](FastUltrasound.html)

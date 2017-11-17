@@ -1,9 +1,9 @@
 ---
 layout: example
-media: images/InPlaneNeedle.png
+media: images/UsNeedle.png
 ---
 
-# Training for Ultrasound-Guided In-Plane Needle Insertion Using 3D Visualization
+# Training for Ultrasound-Guided Needle Insertion Using 3D Visualization
 
 The open-source Perk Tutor training platform has been shown to improve trainee performance in interventions that require ultrasound guidance. Our goal was to determine if needle coordination of medical trainees can be improved by training with Perk Tutor compared to training with ultrasound only.
 
