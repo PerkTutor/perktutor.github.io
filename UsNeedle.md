@@ -1,6 +1,6 @@
 ---
 layout: example
-media: images/UsNeedle.png
+media: https://www.youtube.com/embed/KfdQ3WwTQHw
 ---
 
 # Training for Ultrasound-Guided Needle Insertion Using 3D Visualization

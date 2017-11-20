@@ -1,6 +1,6 @@
 ---
 layout: example
-media: images/LumbarPuncture.png
+media: https://www.youtube.com/embed/IZUVstPeAGo
 ---
 
 # Computerized Training for Ultrasound-Guided Lumbar Punctures

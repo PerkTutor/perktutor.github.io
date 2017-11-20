@@ -1,6 +1,6 @@
 ---
 layout: example
-media: images/CentralLineTutor.png
+media: https://www.youtube.com/embed/dYRSPeomslo
 ---
 
 # Automated Instruction and Feedback for Central Line Training 
