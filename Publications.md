@@ -7,15 +7,17 @@ layout: pages
 
 * Ungi, T., Sargent D.., Moult E., Lasso A., Pinter C., McGraw R. C., et al. (2012).  Perk Tutor: An open-source training platform for ultrasound-guided needle insertions. IEEE Trans Biomed Eng. 59, 3475-3481.
 
+
 ## Perk Tutor Technology Publications
 
+* Lia, H., Paulin G., Yi N., Haq H., Emmanuel S., Ludig K., Keri Z., Lasso A., Fichtinger G. (2018). HoloLens in Suturing Training, SPIE Medical Imaging.
 * Hisey R., Ungi T., Holden, M. S., Baum Z., Keri Z., Fichtinger G. (2018).  Real-time workflow detection using webcam video for providing real-time feedback in central venous catheterization training. SPIE Medical Imaging.
 * Holden, M. S., Keri Z., Ungi T., & Fichtinger G. (2017).  Overall Proficiency Assessment in Point-of-Care Ultrasound Interventions: The Stopwatch is not Enough. Point-of-Care Ultrasound Workshop. LNCS 10549, 146-153.
 * Holden, M. S., Ungi T., Sargent D., McGraw R. C., Chen E. C. S., Ganapathy S., et al. (2014).  Feasibility of Real-Time Workflow Segmentation for Tracked Needle Interventions. IEEE Transactions on Biomedical Engineering. 61, 1720-1728.
 * Bartha, L., Lasso A., Pinter C., Ungi T., Keri Z., & Fichtinger G. (2013).  Open-source surface mesh-based ultrasound-guided spinal intervention simulator. International Journal of Computer Assisted Radiology and Surgery. 8, 1043-51.
 
-## Applications of Perk Tutor
 
+## Applications of Perk Tutor
 
 * Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (In Press).  Objective assessment of colonoscope manipulation skills in colonoscopy training. International Journal of Computer Assisted Radiology and Surgery. 
 * Bell, C., McKaigney C., Holden M. S., Fichtinger G., & Rang L. (2017).  Sonographic accuracy as a novel tool for point of care ultrasound competency assessment. Academic Emergency Medicine Education and Training. 1, 316-324.

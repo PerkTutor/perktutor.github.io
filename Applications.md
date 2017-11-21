@@ -8,6 +8,9 @@ layout: pages
 ## [Objective Technical Proficiency Assessment in Ultrasound-Guided Lumpectomy ![Lumpectomy](images/Lumpectomy.png)](Lumpectomy.html)
 <br>
 
+## [Holographically Augmented Training for Suturing ![HoloSuture](images/HoloSuture.png)](HoloSuture.html)
+<br>
+
 ## [Automated Instruction and Feedback for Central Line Training ![CentralLineTutor](images/CentralLineTutor.png)](CentralLineTutor.html)
 <br>
 
