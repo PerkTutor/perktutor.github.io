@@ -1,6 +1,6 @@
 ---
 layout: example
-media: https://www.youtube.com/embed/p50BwmG_O3E
+media: https://www.youtube.com/embed/p50BwmG_O3E?rel=0
 ---
 
 # Automated Instruction and Feedback for Central Line Training 
