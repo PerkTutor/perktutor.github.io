@@ -15,7 +15,7 @@ Joint motion analysis demonstrates promise as a way of quantitatively measuring 
 
 ## Related Publications
 
-Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (In Press).  Objective assessment of colonoscope manipulation skills in colonoscopy training. International Journal of Computer Assisted Radiology and Surgery. 
+Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (2018).  Objective assessment of colonoscope manipulation skills in colonoscopy training. International Journal of Computer Assisted Radiology and Surgery. 13, 105-114. 
 
 Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (2017).  Assessing Technical Competency in Simulated Colonoscopy Using Joint Motion Analysis. 15th Annual Imaging Network Ontario Symposium (ImNO).
 

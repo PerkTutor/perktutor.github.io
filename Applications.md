@@ -5,6 +5,9 @@ layout: pages
 
 # Example Applications of Perk Tutor
 
+## [Virtual Training for Deep Brain Stimulation Planning ![DeepBrainStimulation](images/DeepBrainStimulation.png)](DeepBrainStimulation.html)
+<br>
+
 ## [Objective Technical Proficiency Assessment in Ultrasound-Guided Lumpectomy ![Lumpectomy](images/Lumpectomy.png)](Lumpectomy.html)
 <br>
 
