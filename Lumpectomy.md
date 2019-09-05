@@ -15,3 +15,5 @@ The proposed training setup is a reliable and valid tool for technical skills as
 
 
 ## Related Publications
+
+Yeo, C. T., Ring, J., Holden, M. S., Ungi, T., Toprak, A., Fichtinger, G., Zevin, B. (2019). Surgery Tutor for Computational Assessment of Technical Proficiency in Soft-Tissue Tumor Resection in a Simulated Setting. Journal of surgical education 76 (3) 872-880.
