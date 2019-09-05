@@ -15,4 +15,6 @@ The Perk Tutor group had significantly reduced distance from the needle tip to t
 
 ## Related Publications
 
+Holden M. S., Xia S., Lia H., Keri Z., Bell C., Patterson L., Ungi T., Fichtinger G. (2019). Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions. International Journal of Computer Assisted Radiology and Surgery.
+
 Lia, H., Keri Z., Holden M. S., Harish V., Mitchell C. H., Ungi T., et al. (2017).  Training with Perk Tutor improves ultrasound-guided in-plane needle insertion skill. SPIE Medical Imaging, 10135.
