@@ -16,4 +16,4 @@ We developed and validated measures which reliably discriminate proficiency leve
 
 ## Related Publications
 
-Holden, M. S., Zhao Y., Haegelen C., Essert C., Fernanez-Vidal S., Bardinet E., et al. (In Press).  Self-guided training for deep brain stimulation planning using objective assessment. International Journal of Computer Assisted Radiology and Surgery.
+Holden, M. S., Zhao Y., Haegelen C., Essert C., Fernanez-Vidal S., Bardinet E., et al. (2018).  Self-guided training for deep brain stimulation planning using objective assessment. International Journal of Computer Assisted Radiology and Surgery 13 (7), 1129-1139.
