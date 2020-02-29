@@ -11,6 +11,7 @@ layout: pages
 ## Perk Tutor Technology Publications
 
 * Holden, M. S., Xia, S., Lia, H., Keri, Z., Bell, C., Patterson, L., ... & Fichtinger, G. (2019). Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions. International journal of computer assisted radiology and surgery, 14(11), 1993.
+* Asselin, M., Ungi, T., Lasso, A., & Fichtinger, G. (2018). A Training Tool for Ultrasound-Guided Central Line Insertion with Webcam-Based Position Tracking. In Simulation, Image Processing, and Ultrasound Systems for Assisted Diagnosis and Navigation (pp. 12-20). Springer, Cham.
 * Lia, H., Paulin G., Yi N., Haq H., Emmanuel S., Ludig K., Keri Z., Lasso A., Fichtinger G. (2018). HoloLens in Suturing Training, SPIE Medical Imaging.
 * Hisey R., Ungi T., Holden, M. S., Baum Z., Keri Z., Fichtinger G. (2018).  Real-time workflow detection using webcam video for providing real-time feedback in central venous catheterization training. SPIE Medical Imaging.
 * Holden, M. S., Keri Z., Ungi T., & Fichtinger G. (2017).  Overall Proficiency Assessment in Point-of-Care Ultrasound Interventions: The Stopwatch is not Enough. Point-of-Care Ultrasound Workshop. LNCS 10549, 146-153.
@@ -20,7 +21,8 @@ layout: pages
 
 ## Applications of Perk Tutor
 
-* Holden, M. S., Wang C., MacNeil K., Church B., Hookey L., Fichtinger G., et al. (In Press).  Objective assessment of colonoscope manipulation skills in colonoscopy training. International Journal of Computer Assisted Radiology and Surgery. 
+* Yeo, C. T., Ring, J., Holden, M. S., Ungi, T., Toprak, A., Fichtinger, G., & Zevin, B. (2019). Surgery Tutor for Computational Assessment of Technical Proficiency in Soft-Tissue Tumor Resection in a Simulated Setting. Journal of surgical education, 76(3), 872-880.
+* Holden, M. S., Wang, C. N., MacNeil, K., Church, B., Hookey, L., Fichtinger, G., & Ungi, T. (2018). Objective assessment of colonoscope manipulation skills in colonoscopy training. International journal of computer assisted radiology and surgery, 13(1), 105-114.
 * Bell, C., McKaigney C., Holden M. S., Fichtinger G., & Rang L. (2017).  Sonographic accuracy as a novel tool for point of care ultrasound competency assessment. Academic Emergency Medicine Education and Training. 1, 316-324.
 * Lia, H., Keri Z., Holden M. S., Harish V., Mitchell C. H., Ungi T., et al. (2017).  Training with Perk Tutor improves ultrasound-guided in-plane needle insertion skill. SPIE Medical Imaging, 10135.
 * McGraw, R. C., Chaplin T., McKaigney C., Rang L., Jaeger M., Redfearn D., et al. (2016).  Development and evaluation of a simulation-based curriculum for ultrasound guided central venous catheterization. Canadian Journal of Emergency Medicine. 18, 405-413.
