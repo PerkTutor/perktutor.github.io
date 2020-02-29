@@ -10,7 +10,7 @@ layout: pages
 
 ## Perk Tutor Technology Publications
 
-* Holden MS, Xia S, Lia H, Keri Z, Bell C, Patterson L, Ungi T, Fichtinger G. Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions. International journal of computer assisted radiology and surgery. 2019 Nov;14(11):1993.
+* Holden, M. S., Xia, S., Lia, H., Keri, Z., Bell, C., Patterson, L., ... & Fichtinger, G. (2019). Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions. International journal of computer assisted radiology and surgery, 14(11), 1993.
 * Lia, H., Paulin G., Yi N., Haq H., Emmanuel S., Ludig K., Keri Z., Lasso A., Fichtinger G. (2018). HoloLens in Suturing Training, SPIE Medical Imaging.
 * Hisey R., Ungi T., Holden, M. S., Baum Z., Keri Z., Fichtinger G. (2018).  Real-time workflow detection using webcam video for providing real-time feedback in central venous catheterization training. SPIE Medical Imaging.
 * Holden, M. S., Keri Z., Ungi T., & Fichtinger G. (2017).  Overall Proficiency Assessment in Point-of-Care Ultrasound Interventions: The Stopwatch is not Enough. Point-of-Care Ultrasound Workshop. LNCS 10549, 146-153.
